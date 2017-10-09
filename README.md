@@ -1,5 +1,5 @@
 ## Installation
-### curl https://raw.githubusercontent.com/pcpaul/dotfiles-linux/master/README.md | sh
+### curl hhttps://raw.githubusercontent.com/paulpcx/dotfiles-linux/master/README.md| sh
 
     cd ~
     git clone https://github.com/pcpaul/dotfiles-linux .dotfiles-linux
